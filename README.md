@@ -15,7 +15,7 @@ It is a small collection of educational cybersecurity utilities written in Pytho
 
 ## 📦 Included Tools
 
-1. **🖥️ Keylogger (POC)**  
+1. **🖥️ [Keylogger (POC)](simple_keylogger/)**  
    - Captures keystrokes and logs them for analysis.  
    - Intended **only for educational demonstration** of keylogging techniques and defense.  
 
