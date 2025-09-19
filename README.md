@@ -88,7 +88,7 @@ security_tool/
 
 ## 🔒 Security Policy
 
-Please see SECURITY.md
+Please see `SECURITY.md`
 
 for how to report vulnerabilities.
  
