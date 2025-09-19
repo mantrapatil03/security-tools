@@ -15,19 +15,19 @@ It is a small collection of educational cybersecurity utilities written in Pytho
 
 ## 📦 Included Tools
 
-1. **🖥️ [Keylogger (POC)](simple_keylogger/)**  
+1. **🖥️ [Keylogger (POC)](keylogger/)**  
    - Captures keystrokes and logs them for analysis.  
    - Intended **only for educational demonstration** of keylogging techniques and defense.  
 
-2. **🔑 Password Strength Checker**  
+2. **🔑 [Password Strength Checker](password_strength_checker/)**  
    - Evaluates passwords based on length, complexity, and common patterns.  
    - Provides feedback and suggestions for stronger security.  
 
-3. **🔒 Password Generator**  
+3. **🔒 [Password Generator](password_generator/)**  
    - Creates strong, random passwords.  
    - Supports custom length, symbols, numbers, and clipboard copy.  
 
-4. **🌐 Port Scanner**  
+4. **🌐 [Port Scanner](port_scanner/)**  
    - Scans ports on a given host to identify open services.  
    - Useful for basic **network reconnaissance** and awareness.  
 
