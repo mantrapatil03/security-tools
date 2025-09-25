@@ -2,7 +2,7 @@
 
 **Security Tool** is a collection of lightweight Python utilities for **cybersecurity learning, awareness, and ethical testing**.  
 
-It brings together multiple essential scripts — from password utilities to basic network reconnaissance — all in one place.  
+It brings together multiple essential scripts — from password utilities to basic network reconnaissance — **all in one place.**  
 
 
 It is a small collection of educational cybersecurity utilities written in Python. It's designed for learning, lab-testing, and ethical security practice. This repo combines of tools:
