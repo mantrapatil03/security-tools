@@ -42,20 +42,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-# To run the script, use the command: python password_strength_checker.py
-# Example usage:
-# Enter your password: P@ssw0rd
-# Password Strength: Strong
-# Example usage:
-# Enter your password: 12345
-# Password Strength: Very Weak
-# Tips to improve your password:
-# - Use at least 8 characters
-# - Include uppercase and lowercase letters
-# - Add digits (0-9)
-# - Add special characters (e.g., !, @, #, $)
-# Example usage:
-# Enter your password: StrongPass1!
-# Password Strength: Very Strong
+
 
 
