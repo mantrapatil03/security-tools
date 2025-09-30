@@ -31,22 +31,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-# A simple keylogger that records keystrokes to a file.
-# Press ESC to stop the keylogger.
-# Requires the 'pynput' library: pip install pynput
-# Note: Use this script responsibly and ensure you have permission to log keystrokes on the target machine.
 
-# Warning: Logging keystrokes can be illegal and unethical if done without consent.
-# Always inform users and obtain explicit permission before using keylogging software.
-
-# This script is for educational purposes only.
-# Always comply with local laws and regulations regarding privacy and data collection.
-
-# Ensure you have the necessary permissions to run this script on your system.
-
-# Disclaimer: The author is not responsible for any misuse of this code.
-
-
-# End of simple_keylogger.py
 
 
