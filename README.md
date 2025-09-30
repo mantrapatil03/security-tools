@@ -83,7 +83,7 @@ security_tool/
 ├─ .gitignore
 ├─ README.md        
 ├─ SECURITY.md
-├─ requriment.txt
+├─ requirements.txt
 
 ```
 
