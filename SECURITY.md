@@ -23,11 +23,11 @@ Instead, follow these steps:
 
 2.Provide a detailed description of the issue, including:
 
-    Steps to reproduce
+    - Steps to reproduce
 
-    Potential impact
+    - Potential impact
 
-    Suggested fixes (if any)
+    - Suggested fixes (if any)
 
 We will:
 
