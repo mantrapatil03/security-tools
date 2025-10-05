@@ -29,7 +29,11 @@ It is a small collection of educational cybersecurity utilities written in Pytho
 
 4. **🌐 [Port Scanner](port_scanner/)**  
    - Scans ports on a given host to identify open services.  
-   - Useful for basic **network reconnaissance** and awareness.  
+   - Useful for basic **network reconnaissance** and awareness.
+  
+5. **🕸️ [Product Scraper](web_scraping_code/)**
+   - Extracts product details (name, price, link) from web pages and saves them to CSV.
+   - Built for educational use to demonstrate ethical web scraping and data parsing.
 
 ---
 
