@@ -1,6 +1,6 @@
 # 🕸️ Product Scraper
 
-A **Python web scraper** built with `requests` and `BeautifulSoup` that extracts product details (name, price, and link) from paginated e-commerce pages and saves them into a clean, structured CSV file.
+A **Python web scraper** built with `requests` and `BeautifulSoup` that extracts product details (name, price, and link) from paginated `e-commerce` pages and saves them into a clean, structured CSV file.
 
 ## 🚀 Features
 
