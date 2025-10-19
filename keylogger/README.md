@@ -1,14 +1,18 @@
-# 📝 simple_keylogger.py
+<h1 align="center">📝 Simple Keylogger (Python)</h1>
 
-![Project: Educational](https://img.shields.io/badge/purpose-educational-blue.svg)
-![Language: Python](https://img.shields.io/badge/language-Python-green.svg)
+<p align="center">
+A minimal proof-of-concept (POC) keylogger written in Python using <code>pynput</code>.  
+Designed strictly for educational and defensive purposes — not for malicious use. �
+</p>
 
-> **Simple, minimal proof-of-concept (POC)** keylogger written in Python using `pynput`.  
-> Designed for learning and defensive research — **not** for covert or malicious use.
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Purpose-Educational-blue?style=for-the-badge"></a>
+  <a href="https://github.com/mantrapatil03/python-beginner-friendly-projects/stargazers"><img src="https://img.shields.io/badge/GitHub-Stars-yellow?style=for-the-badge&logo=github"></a>
+</p>
 
----
 
-## 🔎 What this script does
+##  What this script does
 
 `simple_keylogger.py` listens to keyboard events and appends keystrokes to a log file (`keylog.txt`).  
 It handles printable characters, space and enter keys, and records special keys in square brackets (e.g. `[shift]`). Press **ESC** to stop the listener.
@@ -17,7 +21,7 @@ This script is intentionally minimal to demonstrate how keystroke capture works 
 
 ---
 
-## ⚠️ Legal & Ethical Notice (READ FIRST)
+##  Legal & Ethical Notice (READ FIRST)
 
 **DO NOT** use this script on devices, accounts, or networks that you do not own or have explicit, written permission to test.  
 Unauthorized keylogging is often illegal and a serious invasion of privacy.
@@ -26,7 +30,7 @@ By using this code you agree to follow all local laws and organizational policie
 
 ---
 
-## ✅ Quickstart
+##  Quickstart
 
 ### Prerequisites
 - Python **3.8+**
@@ -49,7 +53,7 @@ Starting keylogger. Press ESC to stop.
 
 Keystrokes will be appended to `keylog.txt` in the same directory. Press ESC to stop the logger.
 
-## 🗂️ Log format examples
+##  Log format examples
 
 - Typing `Hello World` → file content:
 
@@ -65,12 +69,12 @@ Hello World
 [shift]a[shift] [enter] [tab]
 ```
 
-## 🔧 Notes & Best Practices (for educational use)
+##  Notes & Best Practices (for educational use)
 
 - Run the script in an isolated environment (VM or lab machine) when testing.
 
 - Use a virtual environment:
-  
+ 
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # macOS/Linux
@@ -82,7 +86,7 @@ pip install pynput
 
 - Consider modifying the script to run only for a limited duration or to require explicit confirmation before recording.
 
-## 🛡️ Defensive suggestions (learners & defenders)
+##  Defensive suggestions (learners & defenders)
 
 If you are studying this to improve defenses, consider exploring:
 
@@ -94,7 +98,7 @@ If you are studying this to improve defenses, consider exploring:
 
 - Application whitelisting and strict user privilege separation.
 
-## 🧾 Frequently Asked Questions (FAQ)
+##  Frequently Asked Questions (FAQ)
 
 Q: Can this capture passwords?<br>
 A: Yes — if run while a user types passwords, the keystrokes will be recorded. That’s why strict ethical constraints apply.
@@ -105,7 +109,7 @@ A: pynput supports Windows, macOS and many Linux distributions, but behavior/per
 Q: How do I stop the script?<br>
 A: Press ESC in the environment where the script is running.
 
-## 🛠️ Possible improvements (ideas)
+##  Possible improvements (ideas)
 
 - Add CLI flags for `--output`path, `--duration` (seconds), and `--verbose`.
 
@@ -118,12 +122,12 @@ A: Press ESC in the environment where the script is running.
 > These are suggestions for educational/defensive enhancements only.
 
 
-## 🤝 Contributing & Contact
+##  Contributing & Contact
 
 If you want to improve this POC for defensive/educational purposes, please open a PR with a clear description and emphasize ethical use. For security reports or questions, see `SECURITY.md`.
 
 
-## 👨‍💻 Author
+##  Author
 
 **Mantra Patil**
 
@@ -134,9 +138,3 @@ If you want to improve this POC for defensive/educational purposes, please open 
 ---
 
 ***✨ Thanks for visiting my profile! ✨***
-
-
-
-
-
-
